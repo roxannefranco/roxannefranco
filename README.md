@@ -1,16 +1,29 @@
+```
 ### Hi there 👋
 
-<!--
-**roxannefranco/roxannefranco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+name: Roxanne Franco
+located_in: Bergen, Norway
+originally_from: Portugal
+pronouns: she/her
+education:
+  [
+    "Front-End Development at Noroff School of Tech and Digital Media"
+    "Self-Taught Developer and Designer",
+  ]
 
-Here are some ideas to get you started:
+fields_of_interests:
+  [
+    "Web Development",
+    "UI/UX",
+    "Game Development",
+    "CMS",
+  ]
+  
+portfolio: *under construction*
+tools: ["VSC, Figma, AdobeXD, Github, Wordpress, HTML, CSS, Javascript."]
+latest_projects: [[MyBergen](https://mybergen.netlify.app/), [CSM](https://project-community-science-museum.netlify.app/), [RainyDays](https://rainydayswear.netlify.app/)]
+goals: ["Find a job as a front-end developer once I finish my studies in 2023."]
+hobbies: ["Coding", "Designing", "Gaming", "Yoga", "Cooking."]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Check my repos :point_down:
+```
