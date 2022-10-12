@@ -1,7 +1,8 @@
 # Hi 👋
 
 ```
-
+import const aboutMe = [
+{
 name: "Roxanne Franco",
 located_in: "Bergen, Norway",
 originally_from: "Portugal",
@@ -23,6 +24,7 @@ fields_of_interests:
 tools: ["VSC, Figma, AdobeXD, Github, Wordpress, HTML, CSS, Javascript."]
 goals: ["To find a job as a front-end developer once I finish my studies in 2023!"]
 hobbies: ["Coding", "Designing", "Gaming", "Yoga", "Cooking."]
+}
 ```
 ### My portfolio:
 (*currently under construction*)
