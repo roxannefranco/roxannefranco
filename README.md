@@ -1,5 +1,7 @@
 # Hi 👋
 ```
+js
+
 const aboutMe = {
     name: "Roxanne Franco",
     located_in: "Bergen, Norway",
