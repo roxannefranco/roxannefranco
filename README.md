@@ -21,7 +21,7 @@ const aboutMe = {
 }
 ```
 ### My portfolio:
-(*currently under construction*)
+[Roxanne Franco Portfolio ](https://roxannefrancoportfolio.netlify.app/)(*updated*)
 
 ### My Lastest Projects:
 
