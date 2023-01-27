@@ -15,7 +15,7 @@ const aboutMe = {
         "Game Development",
         "CMS"
     ],
-    tools: ["VSC, Figma", "AdobeXD", "Github", "Wordpress", "HTML", "CSS", "Javascript"],
+    tools: ["VSC, Figma", "AdobeXD", "Github", "Wordpress", "HTML", "CSS", "Javascript", "Jest", "Cypress"],
     goals: "To find a job as a front-end developer once I finish my studies in 2023!",
     hobbies: ["Coding", "Designing", "Gaming", "Yoga", "Cooking"]
 }
