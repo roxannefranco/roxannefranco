@@ -13,11 +13,12 @@ const aboutMe = {
         "Web Development",
         "UI/UX",
         "Game Development",
-        "CMS"
+        "CMS",
+        "User Testing"
     ],
-    tools: ["VSC, Figma", "AdobeXD", "Github", "Wordpress", "HTML", "CSS", "Javascript", "Jest", "Cypress"],
+    tools: ["VSC, Figma", "AdobeXD", "Github", "Wordpress", "HTML", "CSS", "Javascript", "Jest", "Cypress", "Vite"],
     goals: "To find a job as a front-end developer once I finish my studies in 2023!",
-    hobbies: ["Coding", "Designing", "Gaming", "Yoga", "Cooking"]
+    hobbies: ["Coding", "Designing", "Gaming", "Yoga", "Cooking", "Hiking"]
 }
 ```
 ### My portfolio:
