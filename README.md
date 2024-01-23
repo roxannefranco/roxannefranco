@@ -18,7 +18,7 @@ const aboutMe = {
         "User Testing",
         "React"
     ],
-    tools: ["VSC, Figma", "AdobeXD", "Github", "Wordpress", "HTML", "CSS", "Javascript", "Jest", "Cypress", "Vite", "React"],
+    tools: ["VSC, Figma", "AdobeXD", "Github", "Wordpress", "HTML", "CSS", "Javascript", "Jest", "Cypress", "Vite", "React", "Astro"],
     goals: "To find my first job as a front-end developer or Webdesigner now that I'm graduating!",
     hobbies: ["Coding", "Designing", "Gaming", "Yoga", "Cooking", "Hiking"]
 }
