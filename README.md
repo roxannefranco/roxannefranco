@@ -19,7 +19,7 @@ const aboutMe = {
         "React"
     ],
     tools: ["VSC, Figma", "AdobeXD", "Github", "Wordpress", "HTML", "CSS", "Javascript", "Jest", "Cypress", "Vite", "React", "Astro"],
-    goals: "To find my first job as a front-end developer or Webdesigner now that I'm graduating!",
+    goals: "To find my first job as a front-end developer or Webdesigner now that I graduated!",
     hobbies: ["Coding", "Designing", "Gaming", "Yoga", "Cooking", "Hiking"]
 }
 ```
@@ -35,5 +35,9 @@ const aboutMe = {
 [Rocktails](https://rocktails-bar-project.netlify.app/),
 [CSM](https://project-community-science-museum.netlify.app/),
 [RainyDays](https://rainydayswear.netlify.app/)
+
+### Current Project:
+Grocery list app using `Astro` & `React`(soon on Portfolio)
+
 
 ### Check my repos :point_down:
